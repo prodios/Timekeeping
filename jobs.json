@@ -1,0 +1,35 @@
+{
+  "name": "Timekeeping",
+  "version": "1.0.0",
+  "person_name": "Person Name",
+  "person_position": "Person Position",
+  "work_hours": 8,
+  "header_row": 7,
+  "lines_delta": 3,
+  "jobs": [
+    {
+      "name": "Job name 01",
+      "duration": 0
+    },
+    {
+      "name": "Job name 02",
+      "duration": 0
+    },
+    {
+      "name": "Job name 03",
+      "duration": 0
+    },
+    {
+      "name": "Job name 04",
+      "duration": 0
+    },
+    {
+      "name": "Job name 05",
+      "duration": 0
+    },
+    {
+      "name": "Job name 06",
+      "duration": 0
+    }
+  ]
+}

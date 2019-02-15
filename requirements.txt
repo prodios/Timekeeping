@@ -1,0 +1,5 @@
+et-xmlfile==1.0.1
+jdcal==1.4
+openpyxl==2.6.0
+six==1.12.0
+transliterate==1.10.2
